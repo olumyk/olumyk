@@ -4,6 +4,7 @@ I'm on a mission to dive into the world of data and make some serious waves! �
 <br>
 
 ### 📂 [Project Portfolio](https://github.com/olumyk/PortFolioTOC.git)
+click 👆🏼 to explore my project portfolio
 
 <br>
 <br>
