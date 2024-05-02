@@ -2,7 +2,7 @@
 I'm on a mission to dive into the world of data and make some serious waves! 🌊 Armed with a background in electrical and computer engineering, plus a passion for automation and robotics, I'm all about blending tech with data to create something amazing.<br><br>Whether you're a seasoned data pro or just starting out like me, I'm extending an open invitation to collaborate. Let's tackle data analytics, science, engineering, and big data projects together!<br><br>Want to see what I've been up to? Check out my data science portfolio below. Feel free to connect anytime; I'm always up for a chat or some exciting data-driven projects. Let's make magic happen with data! ✨🚀
 
 
-### 📂 [Project Portfolio](https://)
+### 📂 [Project Portfolio](https://github.com/olumyk/PortFolioTOC.git)
 
 
 # 💻 Tech Stack:
