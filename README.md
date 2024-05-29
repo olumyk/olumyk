@@ -1,4 +1,4 @@
-# 💫✨🚀 Welcome to my GitHub profile! 
+# 💫 Welcome to my GitHub profile! 
 
 I'm a passionate Data Scientist with a deep love for uncovering insights from complex datasets. 
 I found my muse in data science, and it drives me to continuously learn, innovate, and contribute to meaningful projects. Here, you'll find a collection of my work, showcasing my expertise in technologies like Apache Spark, SQL, and Python. 
