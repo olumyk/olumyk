@@ -1,3 +1,43 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+/* Define the animation */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* Style the text container */
+.typewriter {
+  overflow: hidden; /* Ensures the text is not visible outside the container */
+  border-right: .15em solid orange; /* Cursor effect */
+  white-space: nowrap; /* Prevents text wrapping */
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+}
+
+/* Cursor animation */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+</style>
+</head>
+<body>
+
+<h1>Welcome to my GitHub page</h1>
+<p class="typewriter">Welcome to my GitHub page</p>
+
+</body>
+</html>
+
+
+
 # 💫 Welcome to my GitHub profile! 
 
 I'm a passionate Data Scientist with a deep love for uncovering insights from complex datasets. 
